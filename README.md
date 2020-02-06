@@ -7,7 +7,6 @@
 
 ## Dependencies
     "axios": "^0.19.2",
-    "dom": "0.0.3",
     "gh-pages": "^2.2.0",
     "react-dom": "^16.12.0",
     "react-router": "^5.1.2",
